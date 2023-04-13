@@ -1,6 +1,7 @@
-# Zedni-Elma ![logo](https://user-images.githubusercontent.com/110269220/231654791-a80ce344-f318-4ee7-a8e3-127d5e842b89.png)
-
+# Zedni-Elma 
 Advanced Programming course project
+## Logo
+![logo](https://user-images.githubusercontent.com/110269220/231654791-a80ce344-f318-4ee7-a8e3-127d5e842b89.png)
 
 ## What
 The project idea is an Application that combines all
